@@ -2394,7 +2394,7 @@ Error generating stack: `+i.message+`
       box-shadow: 0px 0px 5px rgba(30, 60, 114, 0.8);
     }
   }
-`,v0=["Dios es amor","Dios Te Ama","Hey! Cuando no sepas a dónde ir, andá a Dios; Él te sigue esperando.","Tu tienes un gran valor para Dios","Yo siempre estoy contigo. att: Dios","Jesús te ama una banda","Sos muy Importante Para Mí, att: Dios","A pesar de todo te sigo Amando, att: Dios","No estoy enojado con vos, Te amo, att: Dios"],S4=()=>{const[e,t]=w.useState("");return w.useEffect(()=>{const n=Math.floor(Math.random()*v0.length);t(v0[n])},[]),a.jsxs(b4,{children:[a.jsx(hx,{}),a.jsx(j4,{children:a.jsx("div",{children:a.jsx(G,{to:"/",children:a.jsx(it,{})})})}),a.jsx(k4,{children:a.jsx(E4,{children:e})})]})},b4=E.div`
+`,v0=["Dios Te Ama","Hey! Cuando no sepas a dónde ir, andá a Dios; Él te sigue esperando.","Tu tienes un gran valor para Dios","Yo siempre estoy contigo. att: Dios","Jesús te ama una banda","Sos muy Importante Para Mí, att: Dios","A pesar de todo te sigo Amando, att: Dios","No estoy enojado con vos, Te amo, att: Dios"],S4=()=>{const[e,t]=w.useState("");return w.useEffect(()=>{const n=Math.floor(Math.random()*v0.length);t(v0[n])},[]),a.jsxs(b4,{children:[a.jsx(hx,{}),a.jsx(j4,{children:a.jsx("div",{children:a.jsx(G,{to:"/",children:a.jsx(it,{})})})}),a.jsx(k4,{children:a.jsx(E4,{children:e})})]})},b4=E.div`
   display: flex;
   justify-content: center;
   align-items: center;
